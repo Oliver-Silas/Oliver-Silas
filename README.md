@@ -1,37 +1,48 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.webp">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-light.webp">
+  <img alt="Market signals becoming software systems" src="./assets/profile-banner-light.webp" width="100%">
+</picture>
+
 <div align="center">
 
 # Oliver Silas
 
-**Trader by instinct. Builder by practice.**
+**Trader · Independent Builder · AI Product Builder**
 
-I turn market signals, emerging AI capabilities, and stubborn product problems
-into software people can actually use.
+Reading signals. Building systems. Shipping useful software.
 
-[![GitHub followers](https://img.shields.io/github/followers/Oliver-Silas?label=Follow&style=flat-square&logo=github&color=181717)](https://github.com/Oliver-Silas?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=Oliver-Silas&style=flat-square&color=0e7490&label=Profile+views)](https://github.com/Oliver-Silas)
+[![Follow on GitHub](https://img.shields.io/github/followers/Oliver-Silas?label=Follow&style=flat-square&logo=github&color=181717)](https://github.com/Oliver-Silas?tab=followers)
+[![View repositories](https://img.shields.io/badge/View_repositories-0E7490?style=flat-square&logo=github&logoColor=white)](https://github.com/Oliver-Silas?tab=repositories)
 
 </div>
 
-## What I am building
+## Where I work
 
-- **AI-native products** that make advanced models useful beyond the demo.
-- **Agentic workflows** that turn repetitive operations into dependable systems.
-- **Lean software businesses** shaped by real demand, fast feedback, and clear economics.
-
-## How I work
-
-| Signal over noise | Products over prototypes | Simple over clever |
+| Markets | Products | Systems |
 | --- | --- | --- |
-| Start from evidence, not hype. | A useful release teaches more than a perfect plan. | The best system is the smallest one that survives reality. |
+| Find signal in uncertainty. | Turn emerging capabilities into useful tools. | Build workflows that stay dependable as they grow. |
+
+My work sits at the intersection of market judgment, AI-native product design,
+and pragmatic engineering. I care less about demos and more about the difficult
+last mile: making new technology clear, reliable, and economically useful.
+
+## Current focus
+
+- Building **AI-native products** across creative media and developer tooling.
+- Designing **agentic workflows** that replace repetitive operations with reviewable systems.
+- Growing **lean software businesses** through fast feedback and disciplined execution.
 
 ## Selected work
 
 ### [terniq](https://github.com/Oliver-Silas/terniq)
 
-A Codex-native workflow plugin for serious software work. It brings structured
-engineering practices closer to the place where agents plan, build, and verify.
+A Codex-native workflow plugin for serious software work. It brings planning,
+implementation, and verification into one structured engineering loop.
 
-## Toolbox
+`Codex` `Agent workflows` `Shell` `Engineering systems`
+
+## Working stack
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
@@ -40,21 +51,20 @@ engineering practices closer to the place where agents plan, build, and verify.
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img alt="Shell" src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
 </p>
 
-## The thread
+## Principles
 
-Markets teach attention. Engineering teaches precision. Product work demands
-both. I am interested in the point where those disciplines meet: finding a real
-signal, building the smallest useful thing around it, and improving it without
-losing the original clarity.
+**Signal over noise.** Start from evidence, not hype.
+
+**Products over prototypes.** A useful release teaches more than a perfect plan.
+
+**Simple over clever.** The best system is the smallest one that survives reality.
 
 <div align="center">
 
-**Currently exploring AI products, developer tooling, and systems that compound.**
+### Markets teach attention. Engineering teaches precision.
 
-[Follow the work](https://github.com/Oliver-Silas?tab=repositories)
+Currently exploring AI products, developer tooling, and systems that compound.
 
 </div>

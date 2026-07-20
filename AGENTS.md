@@ -3,7 +3,7 @@
 Markdown + GitHub-rendered HTML
 
 <directory>
-No subdirectories - the repository is intentionally limited to profile content.
+assets/ - Theme-aware profile artwork (0 subdirectories).
 </directory>
 
 <config>
